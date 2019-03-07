@@ -8,7 +8,7 @@ const Wrapper = styled.div`
   padding-top: 0.6rem;
   padding-bottom: 0.5rem;
 
-  backgorund: ${oc.teal[6]};
+  background: ${oc.teal[6]};
   color: white;
 
   text-align: center;
@@ -25,7 +25,7 @@ const Wrapper = styled.div`
   }
 
   &:active {
-    backgound: ${oc.teal[7]};
+    background: ${oc.teal[7]};
   }
 `;
 
